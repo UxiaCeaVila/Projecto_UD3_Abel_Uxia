@@ -1,0 +1,4 @@
+Queremos crear hacer una aplicacion para gestionar los libros de Brandom Sanderson relacionados con el Cosmere.
+Cada saga de este Universo esta relacionado con un sistema y un planeta distintos. En cada planeta hay distintos tipos
+de especies, los cuales tienen sus caracteristicas, que le pasan a cada personaje. Los planetas pertenecen a un sistema,
+una saga y tienen una esquirla. Cada libro pertenece a una saga y cada saga puede tener más de un libro
